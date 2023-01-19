@@ -7,13 +7,20 @@
 ![MONGODB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ### Technologies
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github%20Actions)
+![GitLab CI](https://img.shields.io/badge/-Gitlab%20CI-000?&logo=Gitlab)
 
 ### Popular Projects
 [![](https://img.shields.io/badge/-Member%20Counter-000?&logo=Discord)](https://github.com/eduardozgz/member-counter-bot)
