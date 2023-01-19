@@ -14,7 +14,9 @@
 ### Technologies
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![Qusar](https://img.shields.io/badge/-Quasar-000?&logo=Quasar)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-000?&logo=MUI)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
