@@ -1,6 +1,3 @@
-### Hi there 👋
-- 📫 How to reach me: [eduardozgz.com](https://eduardozgz.com)
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
